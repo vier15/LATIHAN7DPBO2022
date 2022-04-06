@@ -6,3 +6,8 @@ Program latihan ini menggunakan konsep Composite di mana ada kelas yang menjadi 
 
 ## Screenshoot Program
 
+![alt text](https://github.com/vier15/LATIHAN7DPBO2022/blob/main/Screenshot/ss1.png)
+
+![alt text](https://github.com/vier15/LATIHAN7DPBO2022/blob/main/Screenshot/ss2.png)
+
+![alt text](https://github.com/vier15/LATIHAN7DPBO2022/blob/main/Screenshot/ss3.png)
